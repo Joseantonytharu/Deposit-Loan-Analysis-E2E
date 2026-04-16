@@ -202,7 +202,7 @@ banking-analysis/
 **Jose Antony**
 Business Analyst | Data Enthusiast
 
-📫 Connect with me on LinkedIn *(add your link here)*
+📫 Connect with me on LinkedIn *(www.linkedin.com/in/joseantonytharu)*
 
 ---
 
