@@ -49,7 +49,7 @@ The objective is to uncover **customer behavior patterns, financial trends, and 
 cnx = pymysql.connect(
     host="127.0.0.1",
     user="root",
-    password="***",
+    password="*****",
     database="banking_case"
 )
 ```
