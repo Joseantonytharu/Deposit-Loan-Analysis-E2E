@@ -1,30 +1,30 @@
-🏦 Banking Customer Data Analysis
+# 🏦 Banking Customer Data Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
+---
 
-
-📌 Overview
+## 📌 Overview
 
 This project performs **Exploratory Data Analysis (EDA)** on a banking customer dataset stored in a MySQL database.
 
 The objective is to uncover **customer behavior patterns, financial trends, and relationships between key banking variables** using Python-based data analysis and visualization techniques.
 
+---
 
-
-🎯 Objectives
+## 🎯 Objectives
 
 * Analyze customer demographics and financial attributes
 * Segment customers based on income levels
 * Identify patterns across occupations, nationality, and banking behavior
 * Explore correlations between financial indicators
 
+---
 
-
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 | Category    | Tools                              |
 | ----------- | ---------------------------------- |
@@ -33,7 +33,7 @@ The objective is to uncover **customer behavior patterns, financial trends, and 
 | Libraries   | Pandas, NumPy, Matplotlib, Seaborn |
 | Environment | Jupyter Notebook                   |
 
-
+---
 
 ## 🗄️ Data Source
 
