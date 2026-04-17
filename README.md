@@ -103,21 +103,7 @@ Created **Income Band**:
 
 ---
 
-## 📸 Visualizations
 
-### 🔹 Income Band Distribution
-
-![Income Band Chart](images/income_band.png)
-
-### 🔹 Customer Category Distribution
-
-![Categorical Analysis](images/categorical_plot.png)
-
-### 🔹 Numerical Feature Distribution
-
-![Histogram](images/numerical_distribution.png)
-
-### 🔹 Correlation Heatmap
 
 ![Heatmap](images/heatmap.png)
 
@@ -136,8 +122,6 @@ Created **Income Band**:
 * Nationality influences product usage patterns
 
 ---
-
-## ▶️ How to Run
 
 ### 1. Clone the Repository
 
