@@ -103,14 +103,6 @@ Created **Income Band**:
 
 ---
 
-
-
-![Heatmap](images/heatmap.png)
-
-> 📁 **Note:** Add your screenshots to a folder named `images/` in your repository.
-
----
-
 ## 📈 Key Insights
 
 * Customers are concentrated in specific income bands
@@ -165,19 +157,9 @@ banking-analysis/
 
 ---
 
-## ⚠️ Important Notes
-
-* Do NOT expose your real database password
-* Replace credentials with environment variables
-* Ensure proper data cleaning before analysis
-
----
-
 ## 🚀 Future Enhancements
 
-* 🔮 Customer segmentation using Machine Learning
 * 📊 Interactive dashboards (Power BI / Tableau)
-* ⚙️ Automated data pipeline
 
 ---
 
